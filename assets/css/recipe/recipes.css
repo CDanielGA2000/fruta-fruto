@@ -1,0 +1,8 @@
+.recipes{
+    background: #dab997;
+    padding: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 25px;
+}

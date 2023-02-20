@@ -1,0 +1,25 @@
+.copyright{
+    color: #8C8888;
+    font-weight: 400;
+}
+
+@media screen and (min-width:0) {
+    .copyright{
+        font-size: 0.9rem;
+        padding: 0px;
+    }
+}
+
+@media screen and (min-width:480px) {
+    .copyright{
+        font-size: 1rem;
+        padding: 0px 15px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .copyright{
+        font-size: 1.25rem;
+        padding: 2.5rem;
+    }
+}

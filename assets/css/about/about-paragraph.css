@@ -1,0 +1,18 @@
+.about__paragraph{
+    width: 75%;
+    margin: 0 auto;
+    font-weight: 300;
+    color: #8C8888;
+}
+
+@media screen and (min-width:0){
+    .about__paragraph{
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .about__paragraph{
+        font-size: 1.7rem;
+    }
+}
